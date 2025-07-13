@@ -1,0 +1,18 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://yavshok.ru",
+      "localStorage": [
+        {
+          "name": "UserData",
+          "value": "{\"id\":2748,\"email\":\"privet@mail.ru\",\"name\":\"Neko\",\"age\":18}"
+        },
+        {
+          "name": "AuthToken",
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOjI3NDgsImlhdCI6MTc1MjQzODk2MCwiZXhwIjoxNzUyNTI1MzYwfQ.cyWmxMBYKEv7CW-US7RN9m7BDAPLwHB8Yx_ydENfpP0"
+        }
+      ]
+    }
+  ]
+}
